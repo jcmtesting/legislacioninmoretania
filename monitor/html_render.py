@@ -173,7 +173,7 @@ def render_informe_html(
     <p class="eyebrow">Monitor Legislativo Inmobiliario</p>
     <h1 class="title">Novedades en materia inmobiliaria</h1>
     <p class="dateline">{_esc(titulo_fecha)} · {total} disposiciones</p>
-    <p class="method">Fuente primaria: API oficial de sumarios del BOE · Cobertura verificada · Estatal + Castilla-La Mancha + Comunidad de Madrid</p>
+    <p class="method">Fuente: API oficial del BOE · Normativa estatal y disposiciones de CLM/Madrid publicadas en BOE · Las disposiciones propias del DOCM se siguen por alerta oficial</p>
   </header>
   {''.join(bloques)}
   <footer class="foot">
