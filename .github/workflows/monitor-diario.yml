@@ -1,0 +1,50 @@
+name: Monitor Diario Legislación Inmobiliaria (API BOE)
+
+on:
+  schedule:
+    # De martes a sábado a las 08:00 hora España (06:00 UTC).
+    # El BOE de un día se publica ese mismo día; se ejecuta tras su publicación.
+    - cron: '0 6 * * 2-6'
+  workflow_dispatch:
+    inputs:
+      fecha:
+        description: 'Fecha concreta AAAA-MM-DD (opcional; por defecto hoy)'
+        required: false
+      dias:
+        description: 'Últimos N días (opcional)'
+        required: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar monitor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.fecha }}" ]; then
+            ARGS="--fecha ${{ github.event.inputs.fecha }}"
+          elif [ -n "${{ github.event.inputs.dias }}" ]; then
+            ARGS="--dias ${{ github.event.inputs.dias }}"
+          fi
+          python run.py $ARGS
+
+      - name: Commit y push del informe
+        run: |
+          git config user.name "Monitor Legislativo Bot"
+          git config user.email "bot@monitor-legislativo.local"
+          git add informes/ docs/ ULTIMO-INFORME.md
+          git diff --cached --quiet || git commit -m "📋 Monitor $(date +%Y-%m-%d)"
+          git push
