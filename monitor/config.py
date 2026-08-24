@@ -35,9 +35,11 @@ KEYWORDS_INMOBILIARIO = [
     "inmatriculación", "georreferenciación", "tracto sucesivo", "finca",
     "notario", "notarial", "escritura",
     # Propiedad / urbanismo
-    "propiedad horizontal", "urbanismo", "urbanístic", "suelo", "edificación",
-    "obra nueva", "segregación", "agrupación", "servidumbre", "usufructo",
-    "declaración de obra", "licencia de obra", "cambio de uso",
+    "propiedad horizontal", "urbanismo", "urbanístic", "suelo urbano",
+    "suelo urbanizable", "obra nueva", "segregación de finca", "agrupación de finca",
+    "servidumbre", "usufructo", "declaración de obra nueva",
+    "licencia urbanística", "cambio de uso", "división horizontal",
+    "planeamiento urbanístico", "plan general de ordenación", "plan parcial",
     # Arrendamientos / vivienda
     "arrendamiento", "alquiler", "vivienda", "inquilino", "arrendador",
     "arrendaticia", "lau", "vivienda protegida", "vpo", "zona tensionada",
@@ -50,8 +52,9 @@ KEYWORDS_INMOBILIARIO = [
     "rendimientos de capital inmobiliario", "ganancia patrimonial",
     "sucesiones y donaciones", "iva inmobiliario",
     # Otros
-    "expropiación", "catastro", "rehabilitación", "plan estatal de vivienda",
-    "registro de empresas acreditadas", "sector de la construcción",
+    "expropiación", "catastro", "rehabilitación de edificio",
+    "rehabilitación de vivienda", "plan estatal de vivienda",
+    "registro de empresas acreditadas",
     "arrendamientos urbanos", "arrendamientos rústicos",
 ]
 
@@ -84,7 +87,35 @@ MATERIAS_EXCLUIDAS = [
     "defensa", "seguridad social", "pesca", "agricultura",
     "moneda", "colección", "condecoración", "medalla",
     "beca ", "deportiv", "jubilación",  # jubilaciones sin doctrina
+    # Infraestructura / obra pública que no es edificación residencial
+    "carretera", "autovía", "autopista", "ferroviari", "ferrocarril",
+    "aeropuerto", "aeroportuari", "puerto de", "portuari", "dársena",
+    "embalse", "presa hidr", "abastecimiento de agua", "saneamiento",
+    "depuradora", "conducción de agua", "regadío", "canal de",
+    "carril", "vía verde", "senda", "pasarela peatonal",
+    "línea eléctrica", "subestación", "gasoducto", "oleoducto",
+    "parque eólico", "planta solar", "fotovoltaic", "energética",
+    "cuartel", "acuartelamiento", "base aérea", "base naval",
+    "buque", "fragata", "vehículo", "armamento", "munición",
+    "mantenimiento de", "limpieza de", "vigilancia de", "seguridad de",
+    "suministro de", "combustible", "carburante",
 ]
+
+# Departamentos/organismos cuyas licitaciones y anuncios NO son de interés
+# inmobiliario aunque el título mencione "obra" o "edificación".
+DEPARTAMENTOS_EXCLUIDOS = [
+    "ministerio de defensa", "ejército", "armada", "guardia civil",
+    "ministerio del interior", "ministerio de transportes",
+    "adif", "puertos del estado", "aena", "confederación hidrográfica",
+    "ministerio para la transición ecológica", "ministerio de agricultura",
+    "ministerio de sanidad", "ministerio de educación",
+    "instituto nacional de estadística",
+]
+
+# Sección del BOE de anuncios y licitaciones. En esta sección NO aplicamos
+# el filtro genérico por keyword (demasiados falsos positivos de obra pública).
+# Solo se conservan anuncios si son explícitamente del MIVAU.
+SECCION_ANUNCIOS_KEYWORDS = ["anuncio", "v. anuncios", "v.a", "v.b", "otros anuncios"]
 
 # ─────────────────────────────────────────────────────────────
 # DOCM (Diario Oficial de Castilla-La Mancha)

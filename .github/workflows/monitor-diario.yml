@@ -33,11 +33,11 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          ARGS=""
+          ARGS="--sin-ia"
           if [ -n "${{ github.event.inputs.fecha }}" ]; then
-            ARGS="--fecha ${{ github.event.inputs.fecha }}"
+            ARGS="$ARGS --fecha ${{ github.event.inputs.fecha }}"
           elif [ -n "${{ github.event.inputs.dias }}" ]; then
-            ARGS="--dias ${{ github.event.inputs.dias }}"
+            ARGS="$ARGS --dias ${{ github.event.inputs.dias }}"
           fi
           python run.py $ARGS
 

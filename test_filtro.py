@@ -93,6 +93,30 @@ sumario_simulado = {
                     ],
                 },
                 {
+                    "codigo": "5",
+                    "nombre": "V. Anuncios",
+                    "departamento": [
+                        {
+                            "codigo": "6666",
+                            "nombre": "MINISTERIO DE DEFENSA",
+                            "item": {
+                                "identificador": "BOE-B-2026-99001",
+                                "titulo": "Anuncio de licitación de la Jefatura de Intendencia del Ejército de Tierra para las obras de rehabilitación del edificio del acuartelamiento de Córdoba.",
+                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-99001",
+                            },
+                        },
+                        {
+                            "codigo": "7777",
+                            "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                            "item": {
+                                "identificador": "BOE-B-2026-99002",
+                                "titulo": "Anuncio de formalización de contrato de ADIF para obras de edificación de una nave en la estación de ferrocarril.",
+                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-99002",
+                            },
+                        },
+                    ],
+                },
+                {
                     "codigo": "2B",
                     "nombre": "II.B. Oposiciones y concursos",
                     "departamento": [
@@ -135,6 +159,8 @@ casos = [
     ("BOE-A-2026-10117", None, "Ley de La Rioja (debe excluirse por territorio)"),
     ("BOE-A-2026-10206", "madrid", "Convenio REA construcción Madrid"),
     ("BOE-A-2026-10364", None, "Plaza ayuntamiento (debe excluirse)"),
+    ("BOE-B-2026-99001", None, "Licitación obras Ejército (debe excluirse)"),
+    ("BOE-B-2026-99002", None, "Licitación obras ADIF/ferrocarril (debe excluirse)"),
 ]
 
 todo_ok = True

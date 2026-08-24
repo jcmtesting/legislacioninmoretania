@@ -74,6 +74,18 @@ def es_materia_excluida(titulo: str) -> bool:
     return any(kw in n for kw in config.MATERIAS_EXCLUIDAS)
 
 
+def es_departamento_excluido(depto_nombre: str) -> bool:
+    """Departamentos cuyas licitaciones/anuncios no son de interés inmobiliario."""
+    n = _norm(depto_nombre)
+    return any(kw in n for kw in config.DEPARTAMENTOS_EXCLUIDOS)
+
+
+def es_seccion_anuncios(sec_nombre: str) -> bool:
+    """Sección V del BOE (anuncios y licitaciones)."""
+    n = _norm(sec_nombre)
+    return any(kw in n for kw in config.SECCION_ANUNCIOS_KEYWORDS)
+
+
 def es_territorio_excluido(titulo: str, depto_nombre: str) -> bool:
     """
     Detecta si la norma proviene de una CCAA excluida.
@@ -114,17 +126,26 @@ def clasificar_item(sec_nombre, depto_nombre, epi_nombre, item) -> dict | None:
         "url_pdf": url_pdf,
     }
 
-    # ── Regla 1: MIVAU siempre entra ──
+    # ── Regla 1: MIVAU siempre entra (en cualquier sección, incluidos anuncios) ──
     if es_departamento_vivienda(depto_nombre):
         base["categoria"] = "mivau"
         return base
+
+    # ── Departamentos excluidos (Defensa, Transportes, ADIF, AENA, CHs...) ──
+    # Sus obras/licitaciones no son de interés inmobiliario.
+    if es_departamento_excluido(depto_nombre):
+        return None
+
+    # ── Sección V (anuncios y licitaciones): solo se admite MIVAU ──
+    # Como MIVAU ya retornó arriba, aquí se descarta todo lo demás de anuncios.
+    if es_seccion_anuncios(sec_nombre):
+        return None
 
     # ── Regla 4: territorio (aplica antes de incluir por materia) ──
     if es_territorio_excluido(titulo, depto_nombre):
         return None
 
     # ── Regla de exclusión de materias ──
-    # (no aplica a MIVAU, que ya retornó arriba)
     if es_materia_excluida(titulo):
         return None
 
