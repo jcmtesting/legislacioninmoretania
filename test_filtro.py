@@ -129,6 +129,39 @@ sumario_simulado = {
                                 "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-10364",
                             },
                         },
+                        {
+                            "codigo": "5556",
+                            "nombre": "ADMINISTRACIÓN LOCAL",
+                            "item": {
+                                "identificador": "BOE-A-2026-17636",
+                                "titulo": "Resolución de 7 de agosto de 2026, de la Entidad Local Menor de Rocallaura (Lleida), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17636",
+                            },
+                        },
+                        {
+                            "codigo": "5557",
+                            "nombre": "MINISTERIO DE CULTURA",
+                            "item": {
+                                "identificador": "BOE-A-2026-17941",
+                                "titulo": "Orden CLT/868/2026, de 11 de agosto, por la que se otorga la garantía del Estado a 29 obras para su exhibición en la exposición temporal «Mariana de Austria», en el Museo Nacional del Prado.",
+                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17941",
+                            },
+                        },
+                    ],
+                },
+                {
+                    "codigo": "5",
+                    "nombre": "V. Anuncios",
+                    "departamento": [
+                        {
+                            "codigo": "8888",
+                            "nombre": "ADMINISTRACIÓN LOCAL",
+                            "item": {
+                                "identificador": "BOE-B-2026-27054",
+                                "titulo": "IBIZA",
+                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27054",
+                            },
+                        },
                     ],
                 },
             ],
@@ -161,6 +194,9 @@ casos = [
     ("BOE-A-2026-10364", None, "Plaza ayuntamiento (debe excluirse)"),
     ("BOE-B-2026-99001", None, "Licitación obras Ejército (debe excluirse)"),
     ("BOE-B-2026-99002", None, "Licitación obras ADIF/ferrocarril (debe excluirse)"),
+    ("BOE-A-2026-17636", None, "Plaza Rocallaura/Lleida (debe excluirse)"),
+    ("BOE-A-2026-17941", None, "Garantía Estado obras Museo Prado (debe excluirse)"),
+    ("BOE-B-2026-27054", None, "Anuncio 'IBIZA' (debe excluirse, no es IBI)"),
 ]
 
 todo_ok = True

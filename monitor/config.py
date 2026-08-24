@@ -45,17 +45,23 @@ KEYWORDS_INMOBILIARIO = [
     "arrendaticia", "lau", "vivienda protegida", "vpo", "zona tensionada",
     "mercado residencial tensionado", "serpavi", "nrua", "alquiler turístico",
     "alquiler de corta duración", "vut", "vivienda de uso turístico",
-    # Fiscalidad inmobiliaria
-    "itp", "transmisiones patrimoniales", "actos jurídicos documentados", "ajd",
-    "impuesto sobre bienes inmuebles", "ibi", "plusvalía municipal", "iivtnu",
+    # Fiscalidad inmobiliaria (frases largas; las siglas van aparte abajo)
+    "transmisiones patrimoniales", "actos jurídicos documentados",
+    "impuesto sobre bienes inmuebles", "plusvalía municipal",
     "impuesto sobre el incremento de valor de los terrenos",
-    "rendimientos de capital inmobiliario", "ganancia patrimonial",
-    "sucesiones y donaciones", "iva inmobiliario",
+    "rendimientos de capital inmobiliario", "ganancia patrimonial inmobiliaria",
+    "impuesto sobre sucesiones y donaciones", "iva inmobiliario",
     # Otros
     "expropiación", "catastro", "rehabilitación de edificio",
     "rehabilitación de vivienda", "plan estatal de vivienda",
     "registro de empresas acreditadas",
     "arrendamientos urbanos", "arrendamientos rústicos",
+]
+
+# Siglas fiscales/inmobiliarias que DEBEN buscarse como palabra completa,
+# no como subcadena (para no confundir "ibi" con "Ibiza", "itp" con otras, etc.).
+KEYWORDS_SIGLAS = [
+    "itp", "ajd", "ibi", "iivtnu", "irpf", "lau", "lph", "vpo", "vut", "nrua",
 ]
 
 # ─────────────────────────────────────────────────────────────
@@ -82,11 +88,16 @@ CCAA_INCLUIDAS = [
 # Materias que NUNCA se incluyen (aunque contengan alguna keyword suelta).
 MATERIAS_EXCLUIDAS = [
     "plaza", "oposición", "oposiciones", "concurso de méritos",
-    "provisión de puesto", "convocatoria de personal", "funcionario",
+    "provisión de puesto", "proveer puesto", "puesto de trabajo",
+    "convocatoria para proveer", "convocatoria de personal", "funcionario",
+    "relación de puestos de trabajo", "bolsa de trabajo", "interinidad",
     "farmacéutic", "sanitari", "educación", "educativo", "militar",
     "defensa", "seguridad social", "pesca", "agricultura",
     "moneda", "colección", "condecoración", "medalla",
     "beca ", "deportiv", "jubilación",  # jubilaciones sin doctrina
+    # Cultura / arte (garantía del Estado a obras de exposiciones)
+    "garantía del estado", "exposición temporal", "museo nacional",
+    "obras para su exhibición", "bien de interés cultural mueble", "exhibición",
     # Infraestructura / obra pública que no es edificación residencial
     "carretera", "autovía", "autopista", "ferroviari", "ferrocarril",
     "aeropuerto", "aeroportuari", "puerto de", "portuari", "dársena",

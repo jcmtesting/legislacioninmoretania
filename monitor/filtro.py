@@ -10,11 +10,19 @@ Reglas (por orden de prioridad):
 4. Territorio: se descartan normas de CCAA que no sean CLM o Madrid.
 """
 
+import re
+
 from . import config
 
 
 def _norm(texto: str) -> str:
     return (texto or "").lower()
+
+
+# Precompilar regex de siglas con límites de palabra
+_SIGLAS_RE = re.compile(
+    r"\b(" + "|".join(re.escape(s) for s in config.KEYWORDS_SIGLAS) + r")\b"
+)
 
 
 def es_departamento_vivienda(depto_nombre: str) -> bool:
@@ -29,7 +37,13 @@ def es_departamento_justicia(depto_nombre: str) -> bool:
 
 def tiene_keyword_inmobiliaria(titulo: str) -> bool:
     n = _norm(titulo)
-    return any(kw in n for kw in config.KEYWORDS_INMOBILIARIO)
+    # Frases largas: coincidencia por subcadena (seguras)
+    if any(kw in n for kw in config.KEYWORDS_INMOBILIARIO):
+        return True
+    # Siglas cortas: coincidencia solo como palabra completa
+    if _SIGLAS_RE.search(n):
+        return True
+    return False
 
 
 def es_dgsjfp(titulo: str) -> bool:
