@@ -1,4 +1,4 @@
-# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 13 de octubre de 2026
+# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 14 de octubre de 2026
 
 > Fuente primaria: **API oficial del BOE** (datos abiertos). Cobertura verificada de forma determinista.
 
@@ -9,40 +9,77 @@ _Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
 
 ## 🏠 MINISTERIO DE VIVIENDA Y AGENDA URBANA (MIVAU)
 
-▸ **Anuncio de licitación de: Secretaría General de Agenda Urbana, Vivienda y Arquitectura. Objeto: Obras de rehabilitación del Almacén de Abastos de Ceuta como Archivo General y Museo Militar. Expediente: 2610CTRAE006.**
-  • Referencia: BOE-B-2026-33244
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33244
-
+_Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
 
 ## ⚖️ RESOLUCIONES DGSJFP
 
-▸ **Resolución de 8 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Osuna, por la que se deniega la cancelación de la nota marginal de expedición de certificación de dominio y cargas en virtud de instancia privada.**
-  • Referencia: BOE-A-2026-21287
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21287
+▸ **Resolución de 1 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Redondela-Ponte Caldelas a inscribir una escritura de partición de herencia, otorgada por el albacea universal y contador-partidor designado por la causante en su testamento.**
+  • Referencia: BOE-A-2026-21398
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21398
 
-▸ **Resolución de 9 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Denia n.º 2, por la que se suspende la inscripción de la extinción del régimen de multipropiedad por cuotas indivisas interesada sobre unas fincas registrales.**
-  • Referencia: BOE-A-2026-21288
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21288
+▸ **Resolución de 2 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Madrid n.º 6, por la que se suspende la inscripción de una escritura de declaración de obra antigua y división horizontal de las habitaciones de un hotel en fincas descritas como locales de uso hotelero.**
+  • Referencia: BOE-A-2026-21400
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21400
 
-▸ **Resolución de 9 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación negativa emitida por la registradora de la propiedad accidental de Almería n.º 3, por la que se deniega la inscripción de la georreferenciación de una finca y la consiguiente declaración de obra nueva, por haberse presentado alegaciones en el expediente del artículo 199 de la Ley Hipotecaria tramitado para inscribir la georreferenciación de la finca.**
-  • Referencia: BOE-A-2026-21290
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21290
+▸ **Resolución de 2 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Madrid n.º 6, por la que se suspende la inscripción de una escritura de declaración de obra antigua y división horizontal de las habitaciones de un hotel en fincas descritas como locales de uso hotelero.**
+  • Referencia: BOE-A-2026-21401
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21401
 
-▸ **Resolución de 10 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación negativa del registrador de la propiedad de Santander n.º 1, por la que se suspende la inscripción de finca adjudicada como consecuencia de una partición hereditaria.**
-  • Referencia: BOE-A-2026-21291
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21291
+▸ **Resolución de 3 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Tordesillas, por la que se suspende la inscripción de un acta de requerimiento y acta de notoriedad para la reanudación de tracto sucesivo.**
+  • Referencia: BOE-A-2026-21403
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21403
 
-▸ **Resolución de 10 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad interina de Alhama de Granada a inscribir una escritura de aceptación de herencia, liquidación y adjudicación de bienes.**
-  • Referencia: BOE-A-2026-21292
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21292
+▸ **Resolución de 3 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Palma de Mallorca n.º 1, por la que se suspende la inscripción de una escritura de donación.**
+  • Referencia: BOE-A-2026-21404
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21404
 
-▸ **Resolución de 10 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Majadahonda n.º 1, por la que se deniega la expedición de la certificación literal solicitada respecto de una finca registral de dicho registro.**
-  • Referencia: BOE-A-2026-21294
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21294
+▸ **Resolución de 3 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Tordesillas a inscribir la reanudación del tracto sucesivo interrumpido tras la correspondiente tramitación del expediente del artículo 208 de la Ley Hipotecaria, por no acreditarse el fallecimiento del titular registral.**
+  • Referencia: BOE-A-2026-21405
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21405
 
-▸ **Resolución de 10 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Navalcarnero n.º 2, por la que se deniega la inscripción de una escritura de compraventa de una participación indivisa de finca rústica.**
-  • Referencia: BOE-A-2026-21295
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21295
+▸ **Resolución de 3 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de los registradores mercantil y de bienes muebles V y III de Barcelona a inscribir una póliza mediante la cual se ceden en garantía de una deuda los derechos de crédito derivados de determinados contratos de arrendamiento, una escritura de compraventa de fincas y subrogación de deuda y una escritura de disolución de sociedad con subrogación en la posición de acreedor de los derechos de cobro que la sociedad disuelta tiene respecto a las rentas derivadas de los referidos contratos de arrendamiento.**
+  • Referencia: BOE-A-2026-21406
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21406
+
+▸ **Resolución de 3 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa del registrador de la propiedad de Barcelona n.º 4 a inscribir el testimonio de una sentencia dictada en procedimiento ordinario que reconoce la adquisición del dominio de una mitad indivisa de una finca registral por usucapión.**
+  • Referencia: BOE-A-2026-21407
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21407
+
+▸ **Resolución de 4 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa del registrador de la propiedad de Sagunto n.º 1 a inscribir una escritura de aceptación y partición de herencia.**
+  • Referencia: BOE-A-2026-21409
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21409
+
+▸ **Resolución de 4 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación negativa de la registradora de la propiedad de San Sebastián n.º 6 a inscribir una escritura de partición de herencia previa liquidación de la sociedad de gananciales.**
+  • Referencia: BOE-A-2026-21410
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21410
+
+▸ **Resolución de 4 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Alicante n.º 2, por la que se deniega la cancelación de una limitación de disponer solicitada por instancia privada.**
+  • Referencia: BOE-A-2026-21411
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21411
+
+▸ **Resolución de 4 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de San Fernando n.º 1, por la que se suspende la cancelación de una inscripción de hipoteca unilateral ya aceptada.**
+  • Referencia: BOE-A-2026-21414
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21414
+
+▸ **Resolución de 5 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación negativa de la registradora de la propiedad de Madrid n.º 18, denegando la inscripción de una escritura de opción de compra.**
+  • Referencia: BOE-A-2026-21415
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21415
+
+▸ **Resolución de 5 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa del registrador de la propiedad de Iznalloz a inscribir una escritura de aceptación y adjudicación de herencia.**
+  • Referencia: BOE-A-2026-21416
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21416
+
+▸ **Resolución de 5 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación negativa de registradora de la propiedad de Santa Coloma de Farners, por el que se deniega la inscripción del mandamiento judicial comprensivo de un auto homologando una transacción judicial derivada de procedimiento.**
+  • Referencia: BOE-A-2026-21418
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21418
+
+▸ **Resolución de 5 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Coín, por la que se deniega la tramitación del expediente del artículo 199 de la Ley Hipotecaria, por dudas en la identidad de la finca, basadas en localización dudosa de la finca registral.**
+  • Referencia: BOE-A-2026-21419
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21419
+
+▸ **Resolución de 8 de junio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación emitida por la registradora de la propiedad de Barcelona n.º 7, por la que se suspende la inscripción de una escritura de compraventa en ejercicio de un derecho de opción de compra inscrito y cancelación de cargas posteriores.**
+  • Referencia: BOE-A-2026-21420
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21420
 
 
 ## 🏘️ CASTILLA-LA MANCHA
