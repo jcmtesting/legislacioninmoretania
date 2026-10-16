@@ -1,4 +1,4 @@
-# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 15 de octubre de 2026
+# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 16 de octubre de 2026
 
 > Fuente primaria: **API oficial del BOE** (datos abiertos). Cobertura verificada de forma determinista.
 
@@ -9,9 +9,9 @@ _Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
 
 ## 🏠 MINISTERIO DE VIVIENDA Y AGENDA URBANA (MIVAU)
 
-▸ **Anuncio del concurso de proyectos de: Secretaría General de Agenda Urbana, Vivienda y Arquitectura. Objeto: Concurso de proyectos de Programación Es_ La Casa de la Arquitectura 2026, con intervención de jurado y premios, y su posterior contrato de servicios. Expediente: 2607CPRCA017.**
-  • Referencia: BOE-B-2026-33495
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33495
+▸ **Anuncio de formalización de contratos de: Ministerio de Vivienda y Agenda Urbana. Objeto: Servicio de impresión de las publicaciones incluidas en el programa editorial de 2026 del MIVAU, tituladas: Premios de La Casa de la Arquitectura 2026 y Catálogo nº 3 de La Casa de la Arquitectura. Expediente: 2601CTRRP008.**
+  • Referencia: BOE-B-2026-33598
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-33598
 
 
 ## ⚖️ RESOLUCIONES DGSJFP
