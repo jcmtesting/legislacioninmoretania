@@ -1,22 +1,22 @@
-# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 29 de octubre de 2026
+# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 30 de octubre de 2026
 
 > Fuente primaria: **API oficial del BOE** (datos abiertos). Cobertura verificada de forma determinista.
 
 
 ## 🏛️ NORMATIVA ESTATAL
 
-_Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
+▸ **Resolución de 7 de octubre de 2026, de la Universidad Rovira i Virgili, por la que se nombra Profesora Titular de Universidad a doña Laura Fabregat Aibar.**
+  • Referencia: BOE-A-2026-22731
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22731
+
+▸ **Resolución de 21 de octubre de 2026, de la Dirección General del Catastro, por la que se publica el Convenio con la Universidad de Barcelona.**
+  • Referencia: BOE-A-2026-22770
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22770
+
 
 ## 🏠 MINISTERIO DE VIVIENDA Y AGENDA URBANA (MIVAU)
 
-▸ **Real Decreto 928/2026, de 28 de octubre, por el que se regula la concesión directa de subvenciones destinadas a la financiación de los contratos de concesión de obra para la promoción de vivienda destinada al alquiler asequible licitados por CASA 47 Entidad Pública Empresarial en el marco del Plan de Vivienda para el Alquiler Asequible del Ministerio de Vivienda y Agenda Urbana.**
-  • Referencia: BOE-A-2026-22617
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22617
-
-▸ **Anuncio de licitación de: Consejo Rector de CASA 47 Entidad Pública Empresarial. Objeto: Obras de Edificación de un edificio de viviendas para alquiler asequible en la Parcela situada en la Calle Joan Miró nº27, en el Municipio de Batea (Tarragona). Expediente: 133083.**
-  • Referencia: BOE-B-2026-35345
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-35345
-
+_Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
 
 ## ⚖️ RESOLUCIONES DGSJFP
 
