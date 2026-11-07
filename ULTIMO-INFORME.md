@@ -1,18 +1,18 @@
-# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 6 de noviembre de 2026
+# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 7 de noviembre de 2026
 
 > Fuente primaria: **API oficial del BOE** (datos abiertos). Cobertura verificada de forma determinista.
 
 
 ## 🏛️ NORMATIVA ESTATAL
 
-_Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
+▸ **Resolución de 29 de octubre de 2026, de la Dirección General del Catastro, por la que se publica el Convenio con el Colegio Oficial de Ingenieros Técnicos Agrícolas y Peritos Agrícolas de A Coruña y Pontevedra.**
+  • Referencia: BOE-A-2026-23362
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23362
+
 
 ## 🏠 MINISTERIO DE VIVIENDA Y AGENDA URBANA (MIVAU)
 
-▸ **Orden VAU/1167/2026, de 4 de noviembre, por la que se regulan los mecanismos de seguimiento, control y evaluación de las actuaciones y suministro de información del Plan Estatal de Vivienda 2026-2030, de acuerdo con el Real Decreto 326/2026, de 22 de abril, por el que se regula el Plan Estatal de Vivienda 2026-2030.**
-  • Referencia: BOE-A-2026-23270
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23270
-
+_Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
 
 ## ⚖️ RESOLUCIONES DGSJFP
 
