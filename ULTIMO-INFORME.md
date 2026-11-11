@@ -1,4 +1,4 @@
-# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 10 de noviembre de 2026
+# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 11 de noviembre de 2026
 
 > Fuente primaria: **API oficial del BOE** (datos abiertos). Cobertura verificada de forma determinista.
 
@@ -9,9 +9,13 @@ _Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
 
 ## 🏠 MINISTERIO DE VIVIENDA Y AGENDA URBANA (MIVAU)
 
-▸ **Orden VAU/1195/2026, de 6 de noviembre, por la que se establecen las bases reguladoras para la concesión de subvenciones a actividades para el impulso de la construcción industrializada de la vivienda.**
-  • Referencia: BOE-A-2026-23591
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23591
+▸ **Resolución de 3 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 31 de julio de 2026.**
+  • Referencia: BOE-A-2026-23611
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23611
+
+▸ **Resolución de 5 de noviembre de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.**
+  • Referencia: BOE-A-2026-23619
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23619
 
 
 ## ⚖️ RESOLUCIONES DGSJFP
