@@ -1,22 +1,25 @@
-# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 12 de noviembre de 2026
+# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 13 de noviembre de 2026
 
 > Fuente primaria: **API oficial del BOE** (datos abiertos). Cobertura verificada de forma determinista.
 
 
 ## 🏛️ NORMATIVA ESTATAL
 
-▸ **Conflicto positivo de competencia n.º 6108-2026, contra determinados preceptos del Real Decreto 326/2026, de 22 de abril, por el que se regula el Plan Estatal de Vivienda 2026-2030.**
-  • Referencia: BOE-A-2026-23662
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23662
+▸ **Resolución de 12 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 28/2026, de 6 de octubre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual.**
+  • Referencia: BOE-A-2026-23754
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23754
 
-▸ **Resolución de 3 de noviembre de 2026, del Banco de España, por la que se publican los índices y tipos de referencia aplicables para el cálculo del valor de mercado en la compensación por riesgo de tipo de interés de los préstamos hipotecarios, así como para el cálculo del diferencial que se ha de aplicar para la obtención del valor de mercado de los préstamos o créditos que se cancelan anticipadamente.**
-  • Referencia: BOE-A-2026-23746
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23746
+▸ **Resolución de 12 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible.**
+  • Referencia: BOE-A-2026-23755
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23755
 
 
 ## 🏠 MINISTERIO DE VIVIENDA Y AGENDA URBANA (MIVAU)
 
-_Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
+▸ **Anuncio de formalización de contratos de: Ministerio de Vivienda y Agenda Urbana. Objeto: Servicio telefónico asociado al número 047. Expediente: 2601CTRCO011.**
+  • Referencia: BOE-B-2026-37095
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37095
+
 
 ## ⚖️ RESOLUCIONES DGSJFP
 
