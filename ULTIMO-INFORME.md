@@ -1,20 +1,21 @@
-# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 14 de noviembre de 2026
+# 📅 MONITOR LEGISLATIVO INMOBILIARIO — 17 de noviembre de 2026
 
 > Fuente primaria: **API oficial del BOE** (datos abiertos). Cobertura verificada de forma determinista.
 
 
 ## 🏛️ NORMATIVA ESTATAL
 
-▸ **Resolución de 3 de noviembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo derivado del Convenio colectivo de Provivienda.**
-  • Referencia: BOE-A-2026-23880
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23880
-
+_Sin novedades en materia inmobiliaria (verificado en el sumario del BOE)._
 
 ## 🏠 MINISTERIO DE VIVIENDA Y AGENDA URBANA (MIVAU)
 
-▸ **Resolución de 4 de noviembre de 2026, de la Dirección General de Agenda Urbana y Arquitectura, por la que se publica el Convenio con la Universitat Politècnica de Catalunya, para instrumentar una subvención destinada a la realización de trabajos y estudios relacionados con la implementación y revisión del Plan Nacional de Renovación de Edificios.**
-  • Referencia: BOE-A-2026-23884
-  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23884
+▸ **Resolución de 5 de noviembre de 2026, de la Dirección General de Agenda Urbana y Arquitectura, por la que se publica el Convenio con la Universidad Rey Juan Carlos, para el desarrollo y aplicación de indicadores de Ciudad Activa.**
+  • Referencia: BOE-A-2026-24111
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24111
+
+▸ **Anuncio de formalización de contratos de: Ministerio de Vivienda y Agenda Urbana. Objeto: Servicios editoriales para la elaboración de publicaciones de carácter institucional del Ministerio de Vivienda y Agenda Urbana. Expediente: 2601CTRRP007.**
+  • Referencia: BOE-B-2026-37819
+  • Enlace: https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-37819
 
 
 ## ⚖️ RESOLUCIONES DGSJFP
